@@ -19,3 +19,7 @@
     width: 100%;
     
 }
+.services{
+    display: flex;
+    justify-content: space-evenly;
+}
