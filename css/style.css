@@ -2,7 +2,7 @@
     position: absolute;
     color: white;
     text-align: center;
-    padding: 80%;
+    padding-top:50%;
     width: 100%;
 
 
@@ -10,4 +10,12 @@
 #about{
     padding: 20px;
     text-align: center;
+}
+.servicescontent{
+    position: absolute;
+    color: white;
+    text-align: center;
+    padding-top:20%;
+    width: 100%;
+    
 }
