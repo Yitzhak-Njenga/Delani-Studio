@@ -7,6 +7,9 @@
 
 
 }
+.mouse{
+    cursor: pointer;
+}
 #about{
     padding: 20px;
     text-align: center;
@@ -39,6 +42,9 @@
 
 #p1,#p2,#p3{
     display: none;
+}
+#design,#dev,#product{
+    cursor: pointer;
 }
 #contact{
     margin-top: 20px;
