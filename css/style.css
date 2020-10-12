@@ -22,4 +22,21 @@
 .services{
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
+}
+#services{
+    text-align: center;
+    
+}
+
+#portfolio{
+
+    text-align: center;
+}
+#contact{
+    padding: 20px;
+}
+
+#p1,#p2,#p3{
+    display: none;
 }
