@@ -1,3 +1,11 @@
+@media screen and (max-width: 480px){
+    body{
+        background-color: lawngreen;
+    }
+    #himg{
+        width: 50px
+    }
+}
 .headercontent{
     position: absolute;
     color: white;
