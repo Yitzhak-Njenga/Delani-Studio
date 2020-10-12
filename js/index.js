@@ -7,7 +7,7 @@ $(document).ready(function(){
         $('#design,#p1').toggle("slow");
     });
 
-    $()
+
 
     $("#dev").click(function(){
         $('#dev,#p2').toggle("slow");
