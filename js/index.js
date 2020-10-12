@@ -16,3 +16,10 @@ $(document).ready(function(){
     })
   });
   
+
+  $(document).ready(function(){
+     $(".btn btn-primary").click(function(){
+        alert("Thank For Contacting Us");
+      });
+    });
+  
