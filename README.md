@@ -9,9 +9,9 @@
 ##### Yitzak Njenga
 
 
-## Live link
+## Live link https://yitzhak-njenga.github.io/Delani-Studio/
 
-
+![picture](/home/moringa/Desktop/Delani Studio/ Delani Studio.jpg)
 
 ## Technologies used.
 * HTML5
