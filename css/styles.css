@@ -35,14 +35,17 @@
 }
 .design{
     display: none;
+    cursor: pointer;
 
 }
 .development{
     display: none;
+    cursor: pointer;
     
 }
 .product{
     display: none;
+    cursor: pointer;
 }
 .section4{
     background-color: white;
@@ -86,6 +89,10 @@
   textarea::placeholder{
     color: white;
   }
+  #name::placeholder{
+    color: white;
+    font-weight: bolder;
+  }
 .img{
     float: right;
     position: relative;
@@ -95,11 +102,11 @@
 .img .porttext {
     display: none;
     opacity: 1;
-    background-color:rgba(255, 255, 255, 0.6);
+    background-color:rgba(161, 18, 18, 0.6);
     width: auto;
     position: absolute;
     bottom: 0;
-    color: deepskyblue;
+    color: wheat;
     text-align: center;
     font-weight: bold;
     font-size: 30px;
