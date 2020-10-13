@@ -1,27 +1,32 @@
 $(document).ready(function(){
-    $(".mosue").click(function(){
-      $("#about").slideUp("slow");
-    });
-
-    $("#design").click(function(){
-        $('#design,#p1').toggle("slow");
-    });
-
-
-
-    $("#dev").click(function(){
-        $('#dev,#p2').toggle("slow");
-    })
-
-    $("#product").click(function(){
-        $('#product,#p3').toggle("slow");
-    })
+  $(".design").click(function() {
+    $("#design, .design").toggle("slow");
   });
-  
+  $("#design").click(function() {
+    $(".design, #design").toggle("slow");
+  });
+  $(".development").click(function() {
+    $("#development, .development").toggle("slow");
+  });
+  $("#development").click(function() {
+    $(".development, #development").toggle("slow");
+  });
+  $(".product").click(function() {
+    $("#product, .product").toggle("slow");
+  });
+  $("#product").click(function() {
+    $(".product, #product").toggle("slow");
+  });
+})
+$('.img').hover(function(){
+  $('.porttext',this).slideToggle('slow');
+}, function(){
+  $('.porttext',this).slideToggle('slow');
+});
 
-  $(document).ready(function(){
-     $(".btn btn-primary").click(function(){
-        alert("Thank For Contacting Us");
-      });
-    });
-  
+
+$(document).ready(function(){
+  $(".section5").submit(function(){
+    alert("your request is being worked on");
+  });
+});
