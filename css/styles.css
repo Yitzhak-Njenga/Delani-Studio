@@ -108,6 +108,9 @@
     border: none;
     padding: 20px;
 }
+#submit:hover{
+    background-color: rgb(5, 7, 128);
+}
 .img{
     float: right;
     position: relative;
