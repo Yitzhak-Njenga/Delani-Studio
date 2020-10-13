@@ -6,7 +6,7 @@
     background-size: 100%;
     background-repeat: no-repeat;
     color: cornsilk;
-    height: 600px;
+    height: 650px;
 }
 .logo{
     margin-left: auto;
@@ -19,7 +19,7 @@
 }
 #mouse{
     padding-top: 13%;
-    padding-bottom: 1%;
+    padding-bottom: 5%;
     cursor: pointer;
   }
 
