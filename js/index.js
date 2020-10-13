@@ -27,6 +27,6 @@ $('.img').hover(function(){
 
 $(document).ready(function(){
   $(".section5").submit(function(){
-    alert("your request is being worked on");
+    alert("Thank For Contacting Us!");
   });
 });
