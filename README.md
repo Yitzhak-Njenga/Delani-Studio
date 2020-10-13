@@ -23,5 +23,5 @@
 * mail chimp is misbehaving
 
 License
-MIT LICENSE © 2020 peter
+MIT LICENSE © 2020 Yitzhak 
 
