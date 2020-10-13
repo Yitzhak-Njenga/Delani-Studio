@@ -20,7 +20,7 @@
 * Javascript
 * JQuery
 
-* mail chimp is misbehaving
+
 
 License
 MIT LICENSE © 2020 Yitzhak 

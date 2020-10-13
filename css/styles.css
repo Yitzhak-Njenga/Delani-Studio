@@ -92,7 +92,22 @@
   #name::placeholder{
     color: white;
     font-weight: bolder;
+    
   }
+  #email::placeholder{
+    color: white;
+    font-weight: bolder;
+    
+  }
+  #name,#email{
+    background-color:#ffffff0d;;
+  }
+#submit{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 20px;
+}
 .img{
     float: right;
     position: relative;
