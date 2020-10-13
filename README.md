@@ -1,12 +1,7 @@
 # DELANI STUDIO
 
-### worked on by  Peter Waithaka
-worked with :
-* javascript
-* html
-* css
-# Delani Studio
- #### Check it out
+ ## Live Link
+
 
 # Description.
 ##### Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
