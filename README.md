@@ -1,8 +1,6 @@
 # DELANI STUDIO
 
 
- ## Live Link
-
 
 
 # Description.
